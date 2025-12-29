@@ -33,6 +33,15 @@ https://4racingzalive.deod.tv/GreyhoundRacing/GreyhoundRacing.isml/.m3u8
 #EXTINF:-1 tvg-id="Greyhound Racing 2" tvg-name="Greyhound Racing: Greyhound Racing 2" tvg-logo="https://racingtoday-resources.deod.tv/images/greyhounds-2-667x500-1741599925-m.png" group-title="Greyhound Racing",Greyhound Racing 2
 https://4racingzalive.deod.tv/GreyhoundRacing2/GreyhoundRacing2.isml/.m3u8
 
+#EXTINF:-1 tvg-id="MNet.za" tvg-name="DSTV: M-NET FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png" group-title="DSTV",M-NET FHD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191779
+
+#EXTINF:-1 tvg-id="MNet.za" tvg-name="DSTV: M-NET HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png" group-title="DSTV",M-NET HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/169390
+
+
+
+
 
 
 
