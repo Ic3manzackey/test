@@ -30,6 +30,10 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192791
 #EXTINF:-1 tvg-id="MNetMovies4.za" tvg-name="DSTV: M-Net Movies 4 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/26957_9a96018c03d6c961059cd30ee7c8ba16.png" group-title="DSTV",M Movies 4 HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26957
 
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Switch'd ON" tvg-logo="http://img.lb-ss.com:80/images/tv/49409_c24d085c07933980011f287c0c3795f2.png" group-title="DSTV",Switch'd ON
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49409
+
+
 
 
 
