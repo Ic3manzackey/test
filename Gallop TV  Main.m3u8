@@ -471,6 +471,41 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49427
 #EXTINF:-1 tvg-id="BloombergTVAfrica.us" tvg-name="DSTV: Bloomberg" tvg-logo="http://img.lb-ss.com:80/images/tv/49445_3bab57191e25eb486bfd7ec189a6f64f.png" group-title="DSTV",Bloomberg Television
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49445
 
+#EXTINF:-1 tvg-id="Racing240.za" tvg-name="Horse Racing: Racing240" tvg-logo="https://deod-static-resources.deod.tv/www.racingtoday.co.za/images/logo.png" group-title="Horse Racing",Racing240
+https://za-bkm100-lb.discoverdigital.co.za/bpk-tv/Racing240/default/index.m3u8
+
+#EXTINF:-1 tvg-id="SA Racing.za" tvg-name="Horse Racing: SA Racing" tvg-logo="https://racingtoday-resources.deod.tv/images/sa-racing-667x500-1709289373-m.png" group-title="Horse Racing",SA Racing
+https://za-live-origin-usp.deod.tv/SAClean/SAClean.isml/.m3u8
+
+#EXTINF:-1 tvg-id="GallopTV.za" tvg-name="Horse Racing: Gallop Tv" tvg-logo="https://www.galloptv.co.za/_next/image?url=%2Fimages%2Flogo.png&w=256&q=75" group-title="Horse Racing",Gallop TV
+https://5be2f59e715dd.streamlock.net/galloptv_nr/gc_gtv.smil/chunklist_b2064000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="GlobalRacing1.za" tvg-name="Horse Racing: Global Racing 1" tvg-logo="https://racingtoday-resources.deod.tv/images/globalracing1-normal-1642064496-m.png" group-title="Horse Racing",Global Racing 1
+https://za-bkm100-lb.discoverdigital.co.za/bpk-tv/GlobalRacing1/default/index.m3u8
+
+#EXTINF:-1 tvg-id="HongKongMalaysiaRacing.za" tvg-name="Horse Racing: Hong Kong Malaysia Racing" tvg-logo="https://racingtoday-resources.deod.tv/images/hong-kong-and-singapore-667x500-1753180578-m.png" group-title="Horse Racing",Hong Kong Malaysia Racing
+https://4racingzalive.deod.tv/HongSing/HongSing.isml/.m3u8
+
+#EXTINF:-1 tvg-id="British Racing 1.za" tvg-name="Horse Racing: British Racing 1" tvg-logo="https://racingtoday-resources.deod.tv/images/british-racing-1-667x500-1709316775-m.png" group-title="Horse Racing",British Racing 1
+https://4racingzalive.deod.tv/BritishRacing1/BritishRacing1.isml/.m3u8
+
+#EXTINF:-1 tvg-id="British Racing 2.za" tvg-name="Horse Racing: British Racing 2" tvg-logo="https://racingtoday-resources.deod.tv/images/british-racing-2-667x500-1709293859-m.png" group-title="Horse Racing",British Racing 2
+https://4racingzalive.deod.tv/BritishRacing2/BritishRacing2.isml/.m3u8
+
+#EXTINF:-1 tvg-id="British & Irish Racing.za" tvg-name="Horse Racing: British & Irish Racing" tvg-logo="https://racingtoday-resources.deod.tv/images/british-and-irish-racing-667x500-1709294207-m.png" group-title="Horse Racing",British & Irish Racing
+https://4racingzalive.deod.tv/BritishIrishRacing/BritishIrishRacing.isml/.m3u8
+
+#EXTINF:-1 tvg-id="French Racing" tvg-name="Horse Racing: French Racing" tvg-logo="https://racingtoday-resources.deod.tv/images/french-racing-667x500-1709294322-m.png" group-title="Horse Racing",French Racing
+https://4racingzalive.deod.tv/FrenchRacing/FrenchRacing.isml/.m3u8
+
+#EXTINF:-1 tvg-id="Greyhound Racing 1" tvg-name="Greyhound Racing: Greyhound Racing 1" tvg-logo="https://racingtoday-resources.deod.tv/images/greyhounds-667x500-1731422097-m.png" group-title="Greyhound Racing",Greyhound Racing 1
+https://4racingzalive.deod.tv/GreyhoundRacing/GreyhoundRacing.isml/.m3u8
+
+#EXTINF:-1 tvg-id="Greyhound Racing 2" tvg-name="Greyhound Racing: Greyhound Racing 2" tvg-logo="https://racingtoday-resources.deod.tv/images/greyhounds-2-667x500-1741599925-m.png" group-title="Greyhound Racing",Greyhound Racing 2
+https://4racingzalive.deod.tv/GreyhoundRacing2/GreyhoundRacing2.isml/.m3u8
+
+
+
 
 
 
