@@ -219,11 +219,12 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192792
 #EXTINF:-1 tvg-id="etv.za" tvg-name="DSTV: eTV" tvg-logo="http://img.lb-ss.com:80/images/tv/27799_cff5f491cb4b50d76a47744b9865121e.png" group-title="DSTV",eTV HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27799
 
-#EXTINF:-1 tvg-id="EExtra.za" tvg-name="DSTV: eTV Extra FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192793_1f95da5a168cf6325d0eb203f869b685.png" group-title="DSTV",eExtraÂ HD
+#EXTINF:-1 tvg-id="EExtra.za" tvg-name="DSTV: eTV Extra FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192793_1f95da5a168cf6325d0eb203f869b685.png" group-title="DSTV",eExtra HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192793
 
-#EXTINF:-1 tvg-id="EExtra.za" tvg-name="DSTV: eTV Extra" tvg-logo="http://img.lb-ss.com:80/images/tv/26968_218e09edd7ea458f47438e4c8c419bb6.png" group-title="DSTV",eExtraÂ HD
+#EXTINF:-1 tvg-id="EExtra.za" tvg-name="DSTV: eTV Extra" tvg-logo="http://img.lb-ss.com:80/images/tv/26968_218e09edd7ea458f47438e4c8c419bb6.png" group-title="DSTV",eExtra HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26968
+
 
 
 
