@@ -159,6 +159,22 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49403
 #EXTINF:-1 tvg-id="FoodNetworkEMEA.us" tvg-name="DSTV: Food Network" tvg-logo="http://img.lb-ss.com:80/images/tv/27800_c72e59c2b864ac651691ae0359a53ed5.png" group-title="DSTV",Food Network HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27800
 
+#EXTINF:-1 tvg-id="TheHomeChannel.za" tvg-name="DSTV: The Home Channel" tvg-logo="http://img.lb-ss.com:80/images/tv/27831_3c254218341daf232c01351c465f5a28.png" group-title="DSTV",The Home Channel
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27831
+
+#EXTINF:-1 tvg-id="HGTVSouthAfrica.za" tvg-name="DSTV: HGTV" tvg-logo="http://img.lb-ss.com:80/images/tv/27804_e98f36a01ba797cd4397d2320ea455b6.png" group-title="DSTV",HGTV
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27804
+
+#EXTINF:-1 tvg-id="TravelChannelEMEA.uk" tvg-name="DSTV: Travel Channel" tvg-logo="http://img.lb-ss.com:80/images/tv/49408_2b134c4e824bb9612891129321631c21.png" group-title="DSTV",Travel Channel
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49408
+
+#EXTINF:-1 tvg-id="NationalGeographicSouthAfrica.za" tvg-name="DSTV: National Geographic" tvg-logo="http://img.lb-ss.com:80/images/tv/27810_8c47b3193734ae967b7de25479f373fb.png" group-title="DSTV",National Geographic Channel
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27810
+
+#EXTINF:-1 tvg-id="NationalGeographicWildSouthAfrica.za" tvg-name="DSTV: National Geographic WILD" tvg-logo="http://img.lb-ss.com:80/images/tv/27811_8c47b3193734ae967b7de25479f373fb.png" group-title="DSTV",NatGeo Wild
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27811
+
+
 
 
 
