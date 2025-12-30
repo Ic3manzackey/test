@@ -225,6 +225,130 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192793
 #EXTINF:-1 tvg-id="EExtra.za" tvg-name="DSTV: eTV Extra" tvg-logo="http://img.lb-ss.com:80/images/tv/26968_218e09edd7ea458f47438e4c8c419bb6.png" group-title="DSTV",eExtra HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26968
 
+#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="DSTV: SuperSport Blitz FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192908_7e4703a70ce1fd791d7b1dcd6ec09f1e.png" group-title="DSTV",BLITZ.za
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192908
+
+#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="DSTV: SuperSport Blitz HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22199_a0b8565c891969970833ccf2da10bc00.png" group-title="DSTV",BLITZ
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22199
+
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="DSTV: SuperSport Grandstand FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192904_1fbc065291fd07eca86ddad36ce1d2d5.png" group-title="DSTV",GRANDSTAND
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192904
+
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="DSTV: SuperSport Grandstand HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22190_fa20cc0766eba82a093ab8c072598dbb.png" group-title="DSTV",GRANDSTAND
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22190
+
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="DSTV: SuperSport PSL FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192905_85dd6c23b35c71ff304726512065757f.png" group-title="DSTV",PSL
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192905
+
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="DSTV: SuperSport PSL HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22188_958f07db4453f2d644ad92b208d228b6.png" group-title="DSTV",PSL
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22188
+
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="DSTV: SuperSport PL FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192906_b7f427187e1c4694f894928c9111fcba.png" group-title="DSTV",SS Premier League
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192906
+
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="DSTV: SuperSport PL HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22189_b7f427187e1c4694f894928c9111fcba.png" group-title="DSTV",SS Premier League
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22189
+
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="DSTV: SuperSport La Liga HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22187_17820edf943b01fbe217f41ffd201da5.png" group-title="DSTV",SS La Liga
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22187
+
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="DSTV: SuperSport Football FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192896_c80c00dd0e3089a64dcc0f2e1bcddcb8.png" group-title="DSTV",SS Football
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192896
+
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="DSTV: SuperSport Football HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22194_4ca4aac1ea187b9cbb276e0cc654edc8.png" group-title="DSTV",SS Football
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22194
+
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="DSTV: SuperSport Variety 1 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192892_393bea4545fd7d5d5982e34baf9f3693.png" group-title="DSTV",SS Variety 1
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192892
+
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="DSTV: SuperSport Variety 1 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22192_b1afb171c7737b9bb69e229d3a377d44.png" group-title="DSTV",SS Variety 1
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22192
+
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="DSTV: SuperSport Variety 2 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192893_89f2e9891cb0cfbc14bce83fd3846937.png" group-title="DSTV",SS Variety 2
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192893
+
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="DSTV: SuperSport Variety 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22191_17f8671ec5e23af653cba5f4a33b3df4.png" group-title="DSTV",SS Variety 2
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22191
+
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="DSTV: SuperSport Variety 3 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192894_b13091c1b1dda0525a4494f6fdf7d323.png" group-title="DSTV",SS Variety 3
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192894
+
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="DSTV: SuperSport Variety 3 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/27774_cf93a84d56286f7743d0639e4b0db21e.png" group-title="DSTV",SS Variety 3
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27774
+
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="DSTV: SuperSport Variety 4 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192895_96677c11f80ce3c64ec2e4c26b42c4db.png" group-title="DSTV TV [SPORTS]",DSTV: SuperSport Variety 4 FHD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192895
+
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="DSTV: SuperSport Variety 4 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22195_78229052e877c5ce84a87fa6db1a8e4f.png" group-title="DSTV",SS Variety 4
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22195
+
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="DSTV: SuperSport Action FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192903_1160bee70cdf48c931a6e43040141765.png" group-title="DSTV",SS Action
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192903
+
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="DSTV: SuperSport Action HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22193_35c8cf71138465ad6fd5f3d1ff4f7b84.png" group-title="DSTV",SS Action
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22193
+
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="DSTV: SuperSport Rugby FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192898_a1324c2474506af64aaee9d62fa8fb54.png" group-title="DSTV",RUGBY
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192898
+
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="DSTV: SuperSport Rugby HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22197_ce71b1a1ce75e01e1b810dce38fcc57c.png" group-title="DSTV",RUGBY
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22197
+
+#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="DSTV: SuperSport Cricket FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192899_b782e54f4b08eacb09540bdc93e65d70.png" group-title="DSTV",CRICKET
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192899
+
+#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="DSTV: SuperSport Cricket HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22198_d55501fd98b3f2e17512fa7e82002137.png" group-title="DSTV",CRICKET
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22198
+
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="DSTV: SuperSport Golf FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192900_e74619b93a0bf13d5da102beda6a14bd.png" group-title="DSTV",GOLF
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192900
+
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="DSTV: SuperSport Golf HD" tvg-logo="http://img.lb-ss.com:80/images/tv/26948_3919cf292d3f699d891ec36004b387be.png" group-title="DSTV",GOLF
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26948
+
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="DSTV: SuperSport Tennis FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192901_fbd691a83bc03eaa4a641a6d3c348d30.png" group-title="DSTV",TENNIS
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192901
+
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="DSTV: SuperSport Tennis HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22196_572983fd3ebb4367be8fe4f274ddd938.png" group-title="DSTV",TENNIS
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22196
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="DSTV: SuperSport Motorsport FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192902_92b5d25f4d2cc1c14383a11d2d340167.png" group-title="DSTV",MOTORSPORT
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192902
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="DSTV: SuperSport Motorsport HD" tvg-logo="http://img.lb-ss.com:80/images/tv/27777_3a354ef42819a42e7ec0c4e42f762134.png" group-title="DSTV",MOTORSPORT
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27777
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Schools FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192907_624d4a4206146ea47464ab74ae67dfbf.png" group-title="DSTV",SuperSport School HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192907
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Schools HD" tvg-logo="http://img.lb-ss.com:80/images/tv/189137_add5c54ee23e0d739616b39a9c6c6001.png" group-title="DSTV",SuperSport School HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/189137
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Play HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22201_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV TV [SPORTS]",DSTV: SuperSport Play HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22201
+
+#EXTINF:-1 tvg-id="ESPN2Africa.za" tvg-name="DSTV: ESPN" tvg-logo="http://img.lb-ss.com:80/images/tv/49446_4bca8f3a7fc63fffb55923a3d8922880.png" group-title="DSTV",ESPN HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49446
+
+#EXTINF:-1 tvg-id="ESPN2Africa.za" tvg-name="DSTV: ESPN 2" tvg-logo="http://img.lb-ss.com:80/images/tv/49447_9507674f1db36c04a221974668d0df3f.png" group-title="DSTV",ESPN 2 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49447
+
+#EXTINF:-1 tvg-id="Racing240.za" tvg-name="DSTV: Racing240" tvg-logo="https://deod-static-resources.deod.tv/www.racingtoday.co.za/images/logo.png" group-title="DSTV",Racing 240
+https://za-bkm100-lb.discoverdigital.co.za/bpk-tv/Racing240/default/index.m3u8
+
+#EXTINF:-1 tvg-id="SA Racing.za" tvg-name="Horse Racing: SA Racing" tvg-logo="https://racingtoday-resources.deod.tv/images/sa-racing-667x500-1709289373-m.png" group-title="DSTV",SA Racing
+https://za-live-origin-usp.deod.tv/SAClean/SAClean.isml/.m3u8
+
+#EXTINF:-1 tvg-id="GlobalRacing1.za" tvg-name="Horse Racing: Global Racing 1" tvg-logo="https://racingtoday-resources.deod.tv/images/globalracing1-normal-1642064496-m.png" group-title="DSTV",Global Racing 1
+https://za-bkm100-lb.discoverdigital.co.za/bpk-tv/GlobalRacing1/default/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="DSTV: SuperSport MaXimo HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22200_ab5e5466bbc790b05aa56856fa2389ca.png" group-title="DSTV",MAXIMO 1
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22200
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Maximo 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/149791_3561d7f3e868ab5700d71556ed206637.png" group-title="DSTV",SuperSport Maximo 2 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/149791
+
+
 
 
 
