@@ -93,11 +93,12 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191781
 #EXTINF:-1 tvg-id="KykNet.za" tvg-name="DSTV: kykNET" tvg-logo="http://img.lb-ss.com:80/images/tv/26964_c5aafb9a645439fb408925a0ebfb3c1b.png" group-title="DSTV",KykNET HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26964
 
-#EXTINF:-1 tvg-id="KykNetKie.za" tvg-name="DSTV: kykNET Kie FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/191780_971be0b6ca3a8cd89c14c4824fb67514.png" group-title="DSTV",KykNET &amp; Kie HD
+#EXTINF:-1 tvg-id="KykNetKie.za" tvg-name="DSTV: kykNET Kie FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/191780_971be0b6ca3a8cd89c14c4824fb67514.png" group-title="DSTV",KykNET & Kie HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191780
 
-#EXTINF:-1 tvg-id="KykNetKie.za" tvg-name="DSTV: kykNET Kie" tvg-logo="http://img.lb-ss.com:80/images/tv/26967_a864a482b515db8427d1971e767ea6bb.png" group-title="DSTV",KykNET &amp; Kie HD
+#EXTINF:-1 tvg-id="KykNetKie.za" tvg-name="DSTV: kykNET Kie" tvg-logo="http://img.lb-ss.com:80/images/tv/26967_a864a482b515db8427d1971e767ea6bb.png" group-title="DSTV",KykNET & Kie HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26967
+
 
 
 
