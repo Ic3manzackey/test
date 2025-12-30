@@ -12,6 +12,25 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192788
 #EXTINF:-1 tvg-id="MNetMovies1.za" tvg-name="DSTV: M-Net Movies 1 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/26963_9a96018c03d6c961059cd30ee7c8ba16.png" group-title="DSTV",M Movies 1 HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26963
 
+#EXTINF:-1 tvg-id="MNetMovies2.za" tvg-name="DSTV: M-Net Movies 2 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192789_b1f62b59a007ce29264c5f771ac878b3.png" group-title="DSTV",M Movies 2 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192789
+
+#EXTINF:-1 tvg-id="MNetMovies2.za" tvg-name="DSTV: M-Net Movies 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/26958_9a96018c03d6c961059cd30ee7c8ba16.png" group-title="DSTV",M Movies 2 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26958
+
+#EXTINF:-1 tvg-id="MNetMovies3.za" tvg-name="DSTV: M-Net Movies 3 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192790_77c55100b04814a951e220dfe917ba3e.png" group-title="DSTV",M Movies 3 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192790
+
+#EXTINF:-1 tvg-id="MNetMovies3.za" tvg-name="DSTV: M-Net Movies 3 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/26955_9a96018c03d6c961059cd30ee7c8ba16.png" group-title="DSTV",M Movies 3 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26955
+
+#EXTINF:-1 tvg-id="MNetMovies4.za" tvg-name="DSTV: M-Net Movies 4 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192791_3f93c22c26425fd38e5abd1866276aaa.png" group-title="DSTV",M Movies 4 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192791
+
+#EXTINF:-1 tvg-id="MNetMovies4.za" tvg-name="DSTV: M-Net Movies 4 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/26957_9a96018c03d6c961059cd30ee7c8ba16.png" group-title="DSTV",M Movies 4 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26957
+
+
 
 
 
