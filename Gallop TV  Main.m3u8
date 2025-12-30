@@ -174,6 +174,58 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27810
 #EXTINF:-1 tvg-id="NationalGeographicWildSouthAfrica.za" tvg-name="DSTV: National Geographic WILD" tvg-logo="http://img.lb-ss.com:80/images/tv/27811_8c47b3193734ae967b7de25479f373fb.png" group-title="DSTV",NatGeo Wild
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27811
 
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="DSTV: WILDEARTH" tvg-logo="http://img.lb-ss.com:80/images/tv/27833_457baaff8811cf4fc5ca00a3682553c0.png" group-title="DSTV",WildEarth
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27833
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: BBC Earth" tvg-logo="http://img.lb-ss.com:80/images/tv/49404_0d377736211c958c05c6464cd2291be5.png" group-title="DSTV",BBC Earth HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49404
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Curiosity Channel" tvg-logo="http://img.lb-ss.com:80/images/tv/49405_d73e0fefe3ea27eec01e8d64dc7131d7.png" group-title="DSTV",Curiosity Channel
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49405
+
+#EXTINF:-1 tvg-id="HistoryAfrica.us" tvg-name="DSTV: HISTORY FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192799_1ea66610a42249cd28f3361b7aeed7bb.png" group-title="DSTV",History HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192799
+
+#EXTINF:-1 tvg-id="HistoryAfrica.us" tvg-name="DSTV: HISTORY" tvg-logo="http://img.lb-ss.com:80/images/tv/27805_ff3cdfc6eed71a1a8a1a5622dfef7f1d.png" group-title="DSTV",History HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27805
+
+#EXTINF:-1 tvg-id="Ignition.za" tvg-name="DSTV: Ignition" tvg-logo="http://img.lb-ss.com:80/images/tv/27806_879c7081249d99ae5f744eeba1bccb2d.png" group-title="DSTV",IGNITION
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27806
+
+#EXTINF:-1 tvg-id="SpiceTV.ng" tvg-name="DSTV: Spice TV" tvg-logo="http://img.lb-ss.com:80/images/tv/27826_77f4de0c4db55dec736561ac64c7ea6b.png" group-title="DSTV",Spice TV
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27826
+
+#EXTINF:-1 tvg-id="SABC1.za" tvg-name="DSTV: SABC 1 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192794_97d7f04f1335c4c8c1a6c7fe73d33fa9.png" group-title="DSTV",SABC 1 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192794
+
+#EXTINF:-1 tvg-id="SABC1.za" tvg-name="DSTV: SABC 1" tvg-logo="http://img.lb-ss.com:80/images/tv/27820_97d7f04f1335c4c8c1a6c7fe73d33fa9.png" group-title="DSTV",SABC 1 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27820
+
+#EXTINF:-1 tvg-id="SABC2.za" tvg-name="DSTV: SABC 2 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192795_b374b46577c05b3593748eb7fee3a81f.png" group-title="DSTV",SABC 2 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192795
+
+#EXTINF:-1 tvg-id="SABC2.za" tvg-name="DSTV: SABC 2" tvg-logo="http://img.lb-ss.com:80/images/tv/27821_223d0a0c5a8c12d265771bae4a5236a7.png" group-title="DSTV",SABC 2 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27821
+
+#EXTINF:-1 tvg-id="SABC3.za" tvg-name="DSTV: SABC 3 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192796_5a0e7126234c751ccc685d28250e30d5.png" group-title="DSTV",SABC 3 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192796
+
+#EXTINF:-1 tvg-id="SABC3.za" tvg-name="DSTV: SABC 3" tvg-logo="http://img.lb-ss.com:80/images/tv/27822_d182f87c815c8d288c4e2ae1a6dc03d9.png" group-title="DSTV",SABC 3 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27822
+
+#EXTINF:-1 tvg-id="etv.za" tvg-name="DSTV: eTV FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192792_cff5f491cb4b50d76a47744b9865121e.png" group-title="DSTV",e TV HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192792
+
+#EXTINF:-1 tvg-id="etv.za" tvg-name="DSTV: eTV" tvg-logo="http://img.lb-ss.com:80/images/tv/27799_cff5f491cb4b50d76a47744b9865121e.png" group-title="DSTV",e TV HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27799
+
+#EXTINF:-1 tvg-id="EExtra.za" tvg-name="DSTV: eTV Extra FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192793_1f95da5a168cf6325d0eb203f869b685.png" group-title="DSTV",eExtra HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192793
+
+#EXTINF:-1 tvg-id="EExtra.za" tvg-name="DSTV: eTV Extra" tvg-logo="http://img.lb-ss.com:80/images/tv/26968_218e09edd7ea458f47438e4c8c419bb6.png" group-title="DSTV",eExtra HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26968
+
+
 
 
 
