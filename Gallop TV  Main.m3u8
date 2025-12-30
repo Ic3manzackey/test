@@ -387,6 +387,46 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49416
 #EXTINF:-1 tvg-id="NickJrAfrica.za" tvg-name="DSTV: Nick Jr" tvg-logo="http://img.lb-ss.com:80/images/tv/27812_ba83e51901fc2c5014ec8f602f45d9f7.png" group-title="DSTV",NickJr
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27812
 
+#EXTINF:-1 tvg-id="NicktoonsAfrica.za" tvg-name="DSTV: NickTOONS" tvg-logo="http://img.lb-ss.com:80/images/tv/27814_31bd0bfdea3e62089a3872cb4f6ae6b9.png" group-title="DSTV",NickTOONS
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27814
+
+#EXTINF:-1 tvg-id="DisneyJuniorSouthAfrica.za" tvg-name="DSTV: Disney Junior" tvg-logo="http://img.lb-ss.com:80/images/tv/27794_5630ee277a9e62d8bba6b8c708dbdb9a.png" group-title="DSTV",Disney Junior
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27794
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: JimJam" tvg-logo="http://img.lb-ss.com:80/images/tv/27808_6391f6f20dedce65772906c594691a8e.png" group-title="DSTV",Jim Jam
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27808
+
+#EXTINF:-1 tvg-id="EToonz.za" tvg-name="DSTV: eToonz" tvg-logo="http://img.lb-ss.com:80/images/tv/27798_760baa95d0b2316ee23d2153de31a5c2.png" group-title="DSTV",eToonz
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27798
+
+#EXTINF:-1 tvg-id="MindsetLearn.za" tvg-name="DSTV: Mindset" tvg-logo="http://img.lb-ss.com:80/images/tv/49418_681ad17f887a5c04bf09c5209aac5067.png" group-title="DSTV",Mindset
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49418
+
+#EXTINF:-1 tvg-id="ChannelO.za" tvg-name="DSTV: Channel O" tvg-logo="http://img.lb-ss.com:80/images/tv/49419_852cba42333bf67308dae41d97279e2d.png" group-title="DSTV",Channel O HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49419
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="DSTV: TRACE Urban" tvg-logo="http://img.lb-ss.com:80/images/tv/49429_d6f12222dadb728845e95cdf96ded252.png" group-title="DSTV",TRACE URBAN HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49429
+
+#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="DSTV: TRACE Africa" tvg-logo="http://img.lb-ss.com:80/images/tv/49430_9ecefc0dc783e2babeff10ab0430036d.png" group-title="DSTV",TRACE Africa
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49430
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SOUNDCITY" tvg-logo="http://img.lb-ss.com:80/images/tv/27824_06e0377cd0c47f5669a19e5303554a38.png" group-title="DSTV",Sound City
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27824
+
+#EXTINF:-1 tvg-id="OneGospel.za" tvg-name="DSTV: One Gospel" tvg-logo="http://img.lb-ss.com:80/images/tv/27815_b8a72c23647d375b41f01c6b94423777.png" group-title="DSTV",One Gospel
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27815
+
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="DSTV: TRACE Gospel" tvg-logo="http://img.lb-ss.com:80/images/tv/49431_436a0a8ebd80c17162326cf4ef8fcedf.png" group-title="DSTV",Trace Gospel
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49431
+
+#EXTINF:-1 tvg-id="DumisaTV.za" tvg-name="DSTV: Dumisa" tvg-logo="http://img.lb-ss.com:80/images/tv/49423_a5aa57e7f41dc814ce51774f890cd0fa.png" group-title="DSTV",Dumisa
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49423
+
+#EXTINF:-1 tvg-id="FaithAfrica.za" tvg-name="DSTV: FAITH" tvg-logo="http://img.lb-ss.com:80/images/tv/49424_dbabb0f46dc890162681a7a3c4fede32.png" group-title="DSTV",FAITH
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49424
+
+
 
 
 
