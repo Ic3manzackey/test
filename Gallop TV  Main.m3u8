@@ -45,6 +45,31 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/147938
 #EXTINF:-1 tvg-id="UniversalTVAfrica.za" tvg-name="DSTV: Universal TV" tvg-logo="http://img.lb-ss.com:80/images/tv/27834_afc8b13ae2a2c7dbfa6f49e156c41f85.png" group-title="DSTV",Universal TV HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27834
 
+#EXTINF:-1 tvg-id="TelemundoAfrica.za" tvg-name="DSTV: Telemundo HD" tvg-logo="http://img.lb-ss.com:80/images/tv/196966_6834449f7b947ac9aa4314ca3fa58687.png" group-title="DSTV",TeleMundo English
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/196966
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: BBC Brit" tvg-logo="http://img.lb-ss.com:80/images/tv/49402_666a77663bc29b072c2c019767585727.png" group-title="DSTV",BBC Brit HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49402
+
+#EXTINF:-1 tvg-id="DiscoveryChannelMiddleEastAfrica.us" tvg-name="DSTV: Discovery Channel" tvg-logo="http://img.lb-ss.com:80/images/tv/27791_a281ac3e2b560404c8ca6b83f1855d5b.png" group-title="DSTV",Discovery Channel HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27791
+
+#EXTINF:-1 tvg-id="ComedyCentralAfrica.us" tvg-name="DSTV: Comedy Central" tvg-logo="http://img.lb-ss.com:80/images/tv/27790_d6f8ddc4ac59c4d9ccbc1de7c39b78c6.png" group-title="DSTV",Comedy Central
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27790
+
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-name="US: BRAVO FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/8201_aa228130d3eb73a5cf240c15b33b3d98.png" group-title="DSTV",Bravo HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/8201
+
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-name="US: Bravo HD" tvg-logo="http://img.lb-ss.com:80/images/tv/29101_d7e27294e9906eb6991862ad5ebb3811.png" group-title="DSTV",Bravo HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/29101
+
+#EXTINF:-1 tvg-id="WWEChannel.za" tvg-name="DSTV: WWE Channel" tvg-logo="http://img.lb-ss.com:80/images/tv/49448_fd6c7459a192d9d9cecf93547d4a2a1d.png" group-title="DSTV",WWE CHANNEL
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49448
+
+#EXTINF:-1 tvg-id="MTVAfrica.za" tvg-name="DSTV: MTV" tvg-logo="http://img.lb-ss.com:80/images/tv/49422_d5308d3d974731668f8762dc11f23276.png" group-title="DSTV",MTV
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49422
+
+
 
 
 
