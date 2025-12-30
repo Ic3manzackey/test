@@ -66,6 +66,10 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26957
 #EXTINF:-1 tvg-id="StudioUniversalAfrica.us" tvg-name="DSTV: Studio Universal" tvg-logo="http://img.lb-ss.com:80/images/tv/27828_db65a1673aa3442c981ddcd0542f33f8.png" group-title="DSTV TV [ENTERTAINMENT]",DSTV: Studio Universal
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27828
 
+#EXTINF:-1 tvg-id="KykNet.za" tvg-name="DSTV: kykNET FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/191781_8484d517916cc3b9c03a59f7bdbd087c.png" group-title="DSTV TV [MOVIES]",DSTV: kykNET FHD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191781
+
+
 
 
 
