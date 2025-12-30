@@ -99,6 +99,34 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191780
 #EXTINF:-1 tvg-id="KykNetKie.za" tvg-name="DSTV: kykNET Kie" tvg-logo="http://img.lb-ss.com:80/images/tv/26967_a864a482b515db8427d1971e767ea6bb.png" group-title="DSTV",KykNET & Kie HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26967
 
+#EXTINF:-1 tvg-id="KykNetNou.za" tvg-name="DSTV: kykNET Nou" tvg-logo="http://img.lb-ss.com:80/images/tv/26965_2825c6e04185c5d33fe3c8048b6a0b12.png" group-title="DSTV",KykNET Nou 
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26965
+
+#EXTINF:-1 tvg-id="Via.za" tvg-name="DSTV: VIA FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192806_d8aeb611bfad335dc2814cb4a3a60e65.png" group-title="DSTV",VIA HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192806
+
+#EXTINF:-1 tvg-id="Via.za" tvg-name="DSTV: VIA" tvg-logo="http://img.lb-ss.com:80/images/tv/27830_d8aeb611bfad335dc2814cb4a3a60e65.png" group-title="DSTV",VIA HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27830
+
+#EXTINF:-1 tvg-id="AfricaMagicShowcaseAfrica.za" tvg-name="DSTV: Africa Magic Showcase" tvg-logo="http://img.lb-ss.com:80/images/tv/228765_775b52114c8cfd9078f32115bcaf354f.png" group-title="DSTV",Africa Magic Showcase
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/228765
+
+#EXTINF:-1 tvg-id="AfricaMagicEpic.za" tvg-name="DSTV: Africa Magic Epic" tvg-logo="http://img.lb-ss.com:80/images/tv/26971_0e567d35962a14c5436e383639b77ca9.png" group-title="DSTV",Africa Magic Epic
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26971
+
+#EXTINF:-1 tvg-id="AfricaMagicFamily.za" tvg-name="DSTV: Africa Magic Family" tvg-logo="http://img.lb-ss.com:80/images/tv/26973_cb918eae18e1926454b848e7d61fa8f3.png" group-title="DSTV",Africa Magic Family
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26973
+
+#EXTINF:-1 tvg-id="RealTimeAfrica.us" tvg-name="DSTV: Real Time" tvg-logo="http://img.lb-ss.com:80/images/tv/27818_cf78f13b38252ffde171aa85c7965524.png" group-title="DSTV",Real Time
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27818
+
+#EXTINF:-1 tvg-id="MojaLove.za" tvg-name="DSTV: MojaLove" tvg-logo="http://img.lb-ss.com:80/images/tv/26954_ae4097b5280e2057765b288dbbe15a8a.png" group-title="DSTV",Moja Love HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26954
+
+#EXTINF:-1 tvg-id="MzansiMagic.za" tvg-name="DSTV: Mzansi Magic" tvg-logo="http://img.lb-ss.com:80/images/tv/26952_c76c3f5c53adabcd53f5394016eddcb2.png" group-title="DSTV",Mzansi Music
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26952
+
+
 
 
 
