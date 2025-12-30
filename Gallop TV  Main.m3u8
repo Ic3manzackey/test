@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-id="Racing 240" tvg-name="Horse Racing: Racing240" tvg-logo="https://deod-static-resources.deod.tv/www.racingtoday.co.za/images/logo.png" group-title="Horse Racing",Racing240
 https://za-bkm100-lb.discoverdigital.co.za/bpk-tv/Racing240/default/index.m3u8
 
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-name="US: BRAVO FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/8201_aa228130d3eb73a5cf240c15b33b3d98.png" group-title="USA TV",US: BRAVO FHD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/8201
+
+
 
 
 
