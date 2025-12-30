@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Racing 240.za" tvg-name="Horse Racing: Racing240" tvg-logo="https://deod-static-resources.deod.tv/www.racingtoday.co.za/images/logo.png" group-title="Horse Racing",Racing240
+#EXTINF:-1 tvg-id="Racing 240" tvg-name="Horse Racing: Racing240" tvg-logo="https://deod-static-resources.deod.tv/www.racingtoday.co.za/images/logo.png" group-title="Horse Racing",Racing240
 https://za-bkm100-lb.discoverdigital.co.za/bpk-tv/Racing240/default/index.m3u8
+
 
 
 
