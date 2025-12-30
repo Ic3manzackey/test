@@ -276,7 +276,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192894
 #EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="DSTV: SuperSport Variety 3 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/27774_cf93a84d56286f7743d0639e4b0db21e.png" group-title="DSTV",SS Variety 3
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27774
 
-#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="DSTV: SuperSport Variety 4 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192895_96677c11f80ce3c64ec2e4c26b42c4db.png" group-title="DSTV TV [SPORTS]",DSTV: SuperSport Variety 4 FHD
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="DSTV: SuperSport Variety 4 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192895_96677c11f80ce3c64ec2e4c26b42c4db.png" group-title="DSTV",SS Variety 4
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192895
 
 #EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="DSTV: SuperSport Variety 4 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22195_78229052e877c5ce84a87fa6db1a8e4f.png" group-title="DSTV",SS Variety 4
@@ -347,6 +347,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22200
 
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Maximo 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/149791_3561d7f3e868ab5700d71556ed206637.png" group-title="DSTV",SuperSport Maximo 2 HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/149791
+
 
 
 
