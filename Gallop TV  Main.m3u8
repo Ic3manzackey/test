@@ -33,6 +33,19 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26957
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Switch'd ON" tvg-logo="http://img.lb-ss.com:80/images/tv/49409_c24d085c07933980011f287c0c3795f2.png" group-title="DSTV",SWITCHâ€™D ON Channel 109 (HD)
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49409
 
+#EXTINF:-1 tvg-id="StudioUniversalAfrica.us" tvg-name="DSTV: Studio Universal" tvg-logo="http://img.lb-ss.com:80/images/tv/27828_db65a1673aa3442c981ddcd0542f33f8.png" group-title="DSTV",Studio Universal HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27828
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Movie Room" tvg-logo="http://img.lb-ss.com:80/images/tv/26961_dffb73b9529bebf636aa549154a9ceda.png" group-title="DSTV",MovieRoom
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26961
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: KIX" tvg-logo="http://img.lb-ss.com:80/images/tv/147938_c87dbe676469d43007d36e597f1c61ac.png" group-title="DSTV",KIX
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/147938
+
+#EXTINF:-1 tvg-id="UniversalTVAfrica.za" tvg-name="DSTV: Universal TV" tvg-logo="http://img.lb-ss.com:80/images/tv/27834_afc8b13ae2a2c7dbfa6f49e156c41f85.png" group-title="DSTV",Universal TV HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27834
+
+
 
 
 
