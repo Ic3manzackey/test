@@ -135,7 +135,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192807
 #EXTINF:-1 tvg-id="ZeeWorld.za" tvg-name="DSTV: Zee World" tvg-logo="http://img.lb-ss.com:80/images/tv/27836_c296fb5081239b3d8fed0293763342f0.png" group-title="DSTV",Zee World HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27836
 
-#EXTINF:-1 tvg-id="StarLifeAfrica.in" tvg-name="DSTV: Star Life FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192804_67d120ef88eb1381678b5af3454db448.png" group-title="DSTV",Star Life
+#EXTINF:-1 tvg-id="StarLifeAfrica.in" tvg-name="DSTV: Star Life FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192804_67d120ef88eb1381678b5af3454db448.png" group-title="DSTV",Star Life HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192804
 
 #EXTINF:-1 tvg-id="StarLifeAfrica.in" tvg-name="DSTV: Star Life" tvg-logo="http://img.lb-ss.com:80/images/tv/27827_b9132ab465c20234dd5ec2d9cd8e1378.png" group-title="DSTV",Star Life HD
@@ -153,8 +153,9 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27807
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: BBC Lifestyle" tvg-logo="http://img.lb-ss.com:80/images/tv/49403_7674c0be2e1eb105476108aa94fd12b3.png" group-title="DSTV",BBC Lifestyle
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49403
 
-#EXTINF:-1 tvg-id="FoodNetworkEMEA.us" tvg-name="DSTV: Food Network" tvg-logo="http://img.lb-ss.com:80/images/tv/27800_c72e59c2b864ac651691ae0359a53ed5.png" group-title="DSTV",Food Network
+#EXTINF:-1 tvg-id="FoodNetworkEMEA.us" tvg-name="DSTV: Food Network" tvg-logo="http://img.lb-ss.com:80/images/tv/27800_c72e59c2b864ac651691ae0359a53ed5.png" group-title="DSTV",Food Network HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27800
+
 
 
 
