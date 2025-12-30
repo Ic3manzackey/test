@@ -324,7 +324,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192907
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Schools HD" tvg-logo="http://img.lb-ss.com:80/images/tv/189137_add5c54ee23e0d739616b39a9c6c6001.png" group-title="DSTV",SuperSport School HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/189137
 
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Play HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22201_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV TV [SPORTS]",DSTV: SuperSport Play HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Play HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22201_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV",SuperSport Play HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22201
 
 #EXTINF:-1 tvg-id="ESPN2Africa.za" tvg-name="DSTV: ESPN" tvg-logo="http://img.lb-ss.com:80/images/tv/49446_4bca8f3a7fc63fffb55923a3d8922880.png" group-title="DSTV",ESPN HD
@@ -347,6 +347,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22200
 
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Maximo 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/149791_3561d7f3e868ab5700d71556ed206637.png" group-title="DSTV",SuperSport Maximo 2 HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/149791
+
 
 
 
