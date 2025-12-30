@@ -39,11 +39,19 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191779
 #EXTINF:-1 tvg-id="MNet.za" tvg-name="DSTV: M-NET HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png" group-title="DSTV",M-NET HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/169390
 
-#EXTINF:-1 tvg-id="MNetMovies1.za" tvg-name="DSTV: M Movies 1 FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192788_d7fa1e11f1faca0ec5c721df61fe7a32.png" group-title="DSTV",M Movies 1 FHD
+#EXTINF:-1 tvg-id="MNetMovies1.za" tvg-name="DSTV: M Movies 1 FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png" group-title="DSTV",M Movies 1 FHD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192788
 
-#EXTINF:-1 tvg-id="MNetMovies1.za" tvg-name="DSTV: M Movies 1 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/26963_9a96018c03d6c961059cd30ee7c8ba16.png" group-title="DSTV",M Movies 1 HD
+#EXTINF:-1 tvg-id="MNetMovies1.za" tvg-name="DSTV: M Movies 1 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png" group-title="DSTV",M Movies 1 HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26963
+
+#EXTINF:-1 tvg-id="MNetMovies2.za" tvg-name="DSTV: M Movies 2 FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAP.png" group-title="DSTV",DSTV: M Movies 2 FHD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192789
+
+#EXTINF:-1 tvg-id="MNetMovies2.za" tvg-name="DSTV: M Movies 2 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAP.png" group-title="DSTV",DSTV: M Movies 2 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26958
+
+
 
 
 
