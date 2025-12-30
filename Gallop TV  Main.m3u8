@@ -126,6 +126,37 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26954
 #EXTINF:-1 tvg-id="MzansiMagic.za" tvg-name="DSTV: Mzansi Magic" tvg-logo="http://img.lb-ss.com:80/images/tv/26952_c76c3f5c53adabcd53f5394016eddcb2.png" group-title="DSTV",Mzansi Music
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26952
 
+#EXTINF:-1 tvg-id="MzansiBioskop.za" tvg-name="DSTV: Mzansi Bioskop" tvg-logo="http://img.lb-ss.com:80/images/tv/26953_792d6040b04aa42888103a2dc356eccf.png" group-title="DSTV",Mzansi Bioskop
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26953
+
+#EXTINF:-1 tvg-id="ZeeWorld.za" tvg-name="DSTV: Zee World FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192807_7b2cf5236670efffabb420eeb173273b.png" group-title="DSTV",Zee World HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192807
+
+#EXTINF:-1 tvg-id="ZeeWorld.za" tvg-name="DSTV: Zee World" tvg-logo="http://img.lb-ss.com:80/images/tv/27836_c296fb5081239b3d8fed0293763342f0.png" group-title="DSTV",Zee World HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27836
+
+#EXTINF:-1 tvg-id="StarLifeAfrica.in" tvg-name="DSTV: Star Life FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192804_67d120ef88eb1381678b5af3454db448.png" group-title="DSTV",Star Life
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192804
+
+#EXTINF:-1 tvg-id="StarLifeAfrica.in" tvg-name="DSTV: Star Life" tvg-logo="http://img.lb-ss.com:80/images/tv/27827_b9132ab465c20234dd5ec2d9cd8e1378.png" group-title="DSTV",Star Life HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27827
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: ROK" tvg-logo="http://img.lb-ss.com:80/images/tv/27819_1e91c349ee10f4d57b3e0349dc7babdb.png" group-title="DSTV",ROK
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27819
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Zee Zonke" tvg-logo="http://img.lb-ss.com:80/images/tv/27809_4437df5585d87010fe6067fff052198e.png" group-title="DSTV",Zee Zonke HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27809
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryAfrica.us" tvg-name="DSTV: Discovery Investigation" tvg-logo="http://img.lb-ss.com:80/images/tv/27807_100aa2bc3a141d7f3bc7c1a4cdd39cd5.png" group-title="DSTV",Discovery ID
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27807
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: BBC Lifestyle" tvg-logo="http://img.lb-ss.com:80/images/tv/49403_7674c0be2e1eb105476108aa94fd12b3.png" group-title="DSTV",BBC Lifestyle
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49403
+
+#EXTINF:-1 tvg-id="FoodNetworkEMEA.us" tvg-name="DSTV: Food Network" tvg-logo="http://img.lb-ss.com:80/images/tv/27800_c72e59c2b864ac651691ae0359a53ed5.png" group-title="DSTV",Food Network
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27800
+
+
 
 
 
