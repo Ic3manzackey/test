@@ -348,6 +348,46 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22200
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Maximo 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/149791_3561d7f3e868ab5700d71556ed206637.png" group-title="DSTV",SuperSport Maximo 2 HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/149791
 
+#EXTINF:-1 tvg-id="SowetoTV.za" tvg-name="DSTV: Soweto TV" tvg-logo="http://img.lb-ss.com:80/images/tv/27825_f5185af172d2e2d3bfa835879548fd1c.png" group-title="DSTV",Soweto TV
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27825
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: MpumaKapa" tvg-logo="http://img.lb-ss.com:80/images/tv/147942_e4a722686f04671f305d5fb83347d5a5.png" group-title="DSTV",Mpuma Kapa
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/147942
+
+#EXTINF:-1 tvg-id="1KZNTV.za" tvg-name="DSTV: 1 KZN" tvg-logo="http://img.lb-ss.com:80/images/tv/26976_dd9291d083ba812facecf4cf29e9da6c.png" group-title="DSTV",1 KZN
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26976
+
+#EXTINF:-1 tvg-id="TshwaneTV.za" tvg-name="DSTV: Tshwane TV" tvg-logo="http://img.lb-ss.com:80/images/tv/49411_231dd3865d8a6cbbb1b9019d0d8c0a7c.png" group-title="DSTV",Tshwane TV
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49411
+
+#EXTINF:-1 tvg-id="CapeTownTV.za" tvg-name="DSTV: Cape Town TV" tvg-logo="http://img.lb-ss.com:80/images/tv/26977_b824cddfee7243fc1b55c964100b7e73.png" group-title="DSTV",Cape Town TV
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26977
+
+#EXTINF:-1 tvg-id="GauTV.za" tvg-name="DSTV: GauTV" tvg-logo="http://img.lb-ss.com:80/images/tv/27803_060328e53e617f4c6516790ef9124dd3.png" group-title="DSTV",GauTV
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27803
+
+#EXTINF:-1 tvg-id="TVLesotho.ls" tvg-name="DSTV: Lesotho TV" tvg-logo="http://img.lb-ss.com:80/images/tv/49413_44ba5ca65651b4f36f1927576dd35436.png" group-title="DSTV",Lesotho TV
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49413
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Play Room" tvg-logo="http://img.lb-ss.com:80/images/tv/26972_63daa7a8aa6fef7370af2c6ab5541eb2.png" group-title="DSTV",Playroom
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26972
+
+#EXTINF:-1 tvg-id="CartoonNetworkMENA.uk" tvg-name="DSTV: Cartoon Network" tvg-logo="http://img.lb-ss.com:80/images/tv/49414_06bc6af90dea62a537e07cf1dba8c557.png" group-title="DSTV",Cartoon Network HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49414
+
+#EXTINF:-1 tvg-id="DisneyChannelMENA.uk" tvg-name="DSTV: Disney Channel" tvg-logo="http://img.lb-ss.com:80/images/tv/27793_410dc6ac925be1b0fd80dad61c348b49.png" group-title="DSTV",Disney Channel
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27793
+
+#EXTINF:-1 tvg-id="NickelodeonAfrica.za" tvg-name="DSTV: Nickelodeon" tvg-logo="http://img.lb-ss.com:80/images/tv/27813_1d24d4c0e7c3413d7d19b1fceeb2f8c5.png" group-title="DSTV",Nickelodeon
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27813
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Cbeebies" tvg-logo="http://img.lb-ss.com:80/images/tv/49416_7cfb11beab5353686785294247614ac9.png" group-title="DSTV",Cbeebies
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49416
+
+#EXTINF:-1 tvg-id="NickJrAfrica.za" tvg-name="DSTV: Nick Jr" tvg-logo="http://img.lb-ss.com:80/images/tv/27812_ba83e51901fc2c5014ec8f602f45d9f7.png" group-title="DSTV",NickJr
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27812
+
+
 
 
 
