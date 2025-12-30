@@ -3,71 +3,8 @@
 #EXTINF:-1 tvg-id="Racing240" tvg-name="Horse Racing: Racing240" tvg-logo="https://deod-static-resources.deod.tv/www.racingtoday.co.za/images/logo.png" group-title="Horse Racing",Racing240
 https://za-bkm100-lb.discoverdigital.co.za/bpk-tv/Racing240/default/index.m3u8
 
-#EXTINF:-1 tvg-id="SA Racing" tvg-name="Horse Racing: SA Racing" tvg-logo="https://racingtoday-resources.deod.tv/images/sa-racing-667x500-1709289373-m.png" group-title="Horse Racing",SA Racing
-https://za-live-origin-usp.deod.tv/SAClean/SAClean.isml/.m3u8
 
-#EXTINF:-1 tvg-id="GallopTV" tvg-name="Horse Racing: Gallop Tv" tvg-logo="https://www.galloptv.co.za/_next/image?url=%2Fimages%2Flogo.png&w=256&q=75" group-title="Horse Racing",Gallop TV
-https://5be2f59e715dd.streamlock.net/galloptv_nr/gc_gtv.smil/chunklist_b2064000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="GlobalRacing1" tvg-name="Horse Racing: Global Racing 1" tvg-logo="https://racingtoday-resources.deod.tv/images/globalracing1-normal-1642064496-m.png" group-title="Horse Racing",Global Racing 1
-https://za-bkm100-lb.discoverdigital.co.za/bpk-tv/GlobalRacing1/default/index.m3u8
-
-#EXTINF:-1 tvg-id="HongKongMalaysiaRacing" tvg-name="Horse Racing: Hong Kong Malaysia Racing" tvg-logo="https://racingtoday-resources.deod.tv/images/hong-kong-and-singapore-667x500-1753180578-m.png" group-title="Horse Racing",Hong Kong Malaysia Racing
-https://4racingzalive.deod.tv/HongSing/HongSing.isml/.m3u8
-
-#EXTINF:-1 tvg-id="British Racing 1" tvg-name="Horse Racing: British Racing 1" tvg-logo="https://racingtoday-resources.deod.tv/images/british-racing-1-667x500-1709316775-m.png" group-title="Horse Racing",British Racing 1
-https://4racingzalive.deod.tv/BritishRacing1/BritishRacing1.isml/.m3u8
-
-#EXTINF:-1 tvg-id="British Racing 2" tvg-name="Horse Racing: British Racing 2" tvg-logo="https://racingtoday-resources.deod.tv/images/british-racing-2-667x500-1709293859-m.png" group-title="Horse Racing",British Racing 2
-https://4racingzalive.deod.tv/BritishRacing2/BritishRacing2.isml/.m3u8
-
-#EXTINF:-1 tvg-id="British & Irish Racing" tvg-name="Horse Racing: British & Irish Racing" tvg-logo="https://racingtoday-resources.deod.tv/images/british-and-irish-racing-667x500-1709294207-m.png" group-title="Horse Racing",British & Irish Racing
-https://4racingzalive.deod.tv/BritishIrishRacing/BritishIrishRacing.isml/.m3u8
-
-#EXTINF:-1 tvg-id="French Racing" tvg-name="Horse Racing: French Racing" tvg-logo="https://racingtoday-resources.deod.tv/images/french-racing-667x500-1709294322-m.png" group-title="Horse Racing",French Racing
-https://4racingzalive.deod.tv/FrenchRacing/FrenchRacing.isml/.m3u8
-
-#EXTINF:-1 tvg-id="Greyhound Racing 1" tvg-name="Greyhound Racing: Greyhound Racing 1" tvg-logo="https://racingtoday-resources.deod.tv/images/greyhounds-667x500-1731422097-m.png" group-title="Greyhound Racing",Greyhound Racing 1
-https://4racingzalive.deod.tv/GreyhoundRacing/GreyhoundRacing.isml/.m3u8
-
-#EXTINF:-1 tvg-id="Greyhound Racing 2" tvg-name="Greyhound Racing: Greyhound Racing 2" tvg-logo="https://racingtoday-resources.deod.tv/images/greyhounds-2-667x500-1741599925-m.png" group-title="Greyhound Racing",Greyhound Racing 2
-https://4racingzalive.deod.tv/GreyhoundRacing2/GreyhoundRacing2.isml/.m3u8
-
-#EXTINF:-1 tvg-id="MNet" tvg-name="DSTV: M-NET FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png" group-title="DSTV",M-NET FHD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191779
-
-#EXTINF:-1 tvg-id="MNet" tvg-name="DSTV: M-NET HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png" group-title="DSTV",M-NET HD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/169390
-
-#EXTINF:-1 tvg-id="MNetMovies1" tvg-name="DSTV: M Movies 1 FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png" group-title="DSTV",M Movies 1 FHD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192788
-
-#EXTINF:-1 tvg-id="MNetMovies1" tvg-name="DSTV: M Movies 1 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png" group-title="DSTV",M Movies 1 HD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26963
-
-#EXTINF:-1 tvg-id="MNetMovies2" tvg-name="DSTV: M Movies 2 FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAP.png" group-title="DSTV",DSTV: M Movies 2 FHD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192789
-
-#EXTINF:-1 tvg-id="MNetMovies2" tvg-name="DSTV: M Movies 2 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAP.png" group-title="DSTV",DSTV: M Movies 2 HD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26958
-
-#EXTINF:-1 tvg-id="MnetMovies3" tvg-name="DSTV: M Movies 3 FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png" group-title="DSTV",M Movies 3 FHD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192790
-
-#EXTINF:-1 tvg-id="MnetMovies3" tvg-name="DSTV: M Movies 3 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png" group-title="DSTV",M Movies 3 HD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26955
-
-#EXTINF:-1 tvg-id="MNetMovies4" tvg-name="DSTV: M Movies 4 FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png" group-title="DSTV",M Movies 4 FHD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192791
-
-#EXTINF:-1 tvg-id="MNetMovies4.za" tvg-name="DSTV: M Movies 4 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png" group-title="DSTV",M Movies 4 HD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26957
-
-#EXTINF:-1 tvg-id="StudioUniversalAfrica.us" tvg-name="DSTV: Studio Universal" tvg-logo="http://img.lb-ss.com:80/images/tv/27828_db65a1673aa3442c981ddcd0542f33f8.png" group-title="DSTV TV [ENTERTAINMENT]",DSTV: Studio Universal
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27828
-
-#EXTINF:-1 tvg-id="KykNet.za" tvg-name="DSTV: kykNET FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/191781_8484d517916cc3b9c03a59f7bdbd087c.png" group-title="DSTV TV [MOVIES]",DSTV: kykNET FHD
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191781
 
 
 
