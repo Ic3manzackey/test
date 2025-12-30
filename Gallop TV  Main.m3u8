@@ -426,6 +426,37 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49423
 #EXTINF:-1 tvg-id="FaithAfrica.za" tvg-name="DSTV: FAITH" tvg-logo="http://img.lb-ss.com:80/images/tv/49424_dbabb0f46dc890162681a7a3c4fede32.png" group-title="DSTV",FAITH
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49424
 
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Daystar" tvg-logo="http://img.lb-ss.com:80/images/tv/49425_cc60c4d7535b06301972a22283469467.png" group-title="DSTV",Day Star
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49425
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: TBN Africa" tvg-logo="http://img.lb-ss.com:80/images/tv/27829_3792464f51528ef33a9163ee714b5b0c.png" group-title="DSTV",TBN Africa
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27829
+
+#EXTINF:-1 tvg-id="BBCWorldNewsAfrica.uk" tvg-name="DSTV: BBC World News" tvg-logo="http://img.lb-ss.com:80/images/tv/49433_d4986ed4020627bd6a82bd9ac64a4105.png" group-title="DSTV,BBC World News
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49433
+
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="DSTV: CNN International" tvg-logo="http://img.lb-ss.com:80/images/tv/49434_945184145997682ab577c5f5daf4a51d.png" group-title="DSTV",CNN International HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49434
+
+#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-name="DSTV: Sky News" tvg-logo="http://img.lb-ss.com:80/images/tv/49435_7328dbdaafb68100f070de61bc58ea46.png" group-title="DSTV",Sky News
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49435
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: eNCA" tvg-logo="http://img.lb-ss.com:80/images/tv/27797_68ab3842719b08f433611ea491b4b42f.png" group-title="DSTV",eNCA
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27797
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SABC News FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/226762_85abf69728e0a482df08ae3c31938c1c.png" group-title="DSTV",SABC News
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/226762
+
+#EXTINF:-1 tvg-id="SABCNews.za" tvg-name="DSTV: SABC News" tvg-logo="http://img.lb-ss.com:80/images/tv/27823_a500cb3dcfe5a5baeb039b15cae6179b.png" group-title="DSTV",SABC News
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27823
+
+#EXTINF:-1 tvg-id="NewzroomAfrika.za" tvg-name="DSTV: Newzroom Afrika" tvg-logo="http://img.lb-ss.com:80/images/tv/27354_388b69de99aeebaeef1fbbea636e2352.png" group-title="DSTV",Newzroom Afrika
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27354
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="DSTV: Al Jazeera" tvg-logo="http://img.lb-ss.com:80/images/tv/49443_ecdabe16806e7faa4be21aa2ddcf4a19.png" group-title="DSTV",Al.Jazeera
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49443
+
+
 
 
 
