@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="MNet" tvg-name="DSTV: M-NET HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png" group-title="DSTV",M-NET FHD
+#EXTINF:-1 tvg-id="MNet" tvg-name="DSTV: M-NET HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png" group-title="DSTV",M-NET HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191779
 
 #EXTINF:-1 tvg-id="MNet" tvg-name="DSTV: M-NET HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png" group-title="DSTV",M-NET HD
@@ -473,6 +473,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49427
 
 #EXTINF:-1 tvg-id="BloombergTVAfrica.us" tvg-name="DSTV: Bloomberg" tvg-logo="http://img.lb-ss.com:80/images/tv/49445_3bab57191e25eb486bfd7ec189a6f64f.png" group-title="DSTV TV [NEWS]",DSTV: Bloomberg
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49445
+
 
 
 
