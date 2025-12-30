@@ -456,6 +456,22 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27354
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="DSTV: Al Jazeera" tvg-logo="http://img.lb-ss.com:80/images/tv/49443_ecdabe16806e7faa4be21aa2ddcf4a19.png" group-title="DSTV",Al.Jazeera
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49443
 
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Russia Today" tvg-logo="http://img.lb-ss.com:80/images/tv/49444_e0e77f8cc82134fe9d8be7b0f0a2b01f.png" group-title="DSTV",Russia Today
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49444
+
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="DSTV: EuroNews" tvg-logo="http://img.lb-ss.com:80/images/tv/49438_6c350ee5946d70a72cd960ead9ddfa42.png" group-title="DSTV",EuroNews Africa
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49438
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="DSTV: CGTN News" tvg-logo="http://img.lb-ss.com:80/images/tv/49436_09410d59a7a236e2dcc29eedac1ba0e1.png" group-title="DSTV",CGTN News
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49436
+
+#EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-name="DSTV: CNBC Africa" tvg-logo="http://img.lb-ss.com:80/images/tv/49427_d377492e66647009f8b3e2dddbed416e.png" group-title="DSTV",CNBC Africa
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49427
+
+#EXTINF:-1 tvg-id="BloombergTVAfrica.us" tvg-name="DSTV: Bloomberg" tvg-logo="http://img.lb-ss.com:80/images/tv/49445_3bab57191e25eb486bfd7ec189a6f64f.png" group-title="DSTV",Bloomberg Television
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49445
+
+
 
 
 
