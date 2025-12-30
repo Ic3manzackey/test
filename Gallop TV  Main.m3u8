@@ -63,6 +63,10 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192791
 #EXTINF:-1 tvg-id="MNetMovies4.za" tvg-name="DSTV: M Movies 4 HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png" group-title="DSTV",M Movies 4 HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26957
 
+#EXTINF:-1 tvg-id="StudioUniversalAfrica.us" tvg-name="DSTV: Studio Universal" tvg-logo="http://img.lb-ss.com:80/images/tv/27828_db65a1673aa3442c981ddcd0542f33f8.png" group-title="DSTV TV [ENTERTAINMENT]",DSTV: Studio Universal
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27828
+
+
 
 
 
