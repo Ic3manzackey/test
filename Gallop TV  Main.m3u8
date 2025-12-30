@@ -225,7 +225,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192793
 #EXTINF:-1 tvg-id="EExtra.za" tvg-name="DSTV: eTV Extra" tvg-logo="http://img.lb-ss.com:80/images/tv/26968_218e09edd7ea458f47438e4c8c419bb6.png" group-title="DSTV",eExtra HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26968
 
-#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="DSTV: SuperSport Blitz FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192908_7e4703a70ce1fd791d7b1dcd6ec09f1e.png" group-title="DSTV",BLITZ.za
+#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="DSTV: SuperSport Blitz FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192908_7e4703a70ce1fd791d7b1dcd6ec09f1e.png" group-title="DSTV",BLITZ
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192908
 
 #EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="DSTV: SuperSport Blitz HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22199_a0b8565c891969970833ccf2da10bc00.png" group-title="DSTV",BLITZ
@@ -347,6 +347,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22200
 
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Maximo 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/149791_3561d7f3e868ab5700d71556ed206637.png" group-title="DSTV",SuperSport Maximo 2 HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/149791
+
 
 
 
