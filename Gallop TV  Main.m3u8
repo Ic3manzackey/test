@@ -129,6 +129,9 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26952
 #EXTINF:-1 tvg-id="MzansiBioskop.za" tvg-name="DSTV: Mzansi Bioskop" tvg-logo="http://img.lb-ss.com:80/images/tv/26953_792d6040b04aa42888103a2dc356eccf.png" group-title="DSTV",Mzansi Bioskop
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26953
 
+#EXTINF:-1 tvg-id="MzansiWethu.za" tvg-name="DSTV: Mzansi Wethu" tvg-logo="http://img.lb-ss.com:80/images/tv/26950_a0e3f006f979b6dc862497ad04ee3068.png" group-title="DSTV",Mzansi Wethu HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26950
+
 #EXTINF:-1 tvg-id="ZeeWorld.za" tvg-name="DSTV: Zee World FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/192807_7b2cf5236670efffabb420eeb173273b.png" group-title="DSTV",Zee World HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192807
 
@@ -155,6 +158,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49403
 
 #EXTINF:-1 tvg-id="FoodNetworkEMEA.us" tvg-name="DSTV: Food Network" tvg-logo="http://img.lb-ss.com:80/images/tv/27800_c72e59c2b864ac651691ae0359a53ed5.png" group-title="DSTV",Food Network HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27800
+
 
 
 
