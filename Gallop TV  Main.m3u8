@@ -74,7 +74,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26960
 #EXTINF:-1 tvg-id="MTVAfrica.za" tvg-name="DSTV: MTV" tvg-logo="http://img.lb-ss.com:80/images/tv/49422_d5308d3d974731668f8762dc11f23276.png" group-title="DSTV",MTV
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49422
 
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Reality" tvg-logo="http://img.lb-ss.com:80/images/tv/49406_f3aeb4182abf9d9c178ea804e5ff665a.png" group-title="DSTV",CBS.Reality
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Reality" tvg-logo="http://img.lb-ss.com:80/images/tv/49406_f3aeb4182abf9d9c178ea804e5ff665a.png" group-title="DSTV",CBS Reality
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49406
 
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-name="DSTV: tlnovelas" tvg-logo="http://img.lb-ss.com:80/images/tv/147939_c582094f533b80e8454a8e9a9400ba76.png" group-title="DSTV",TLNovelas
@@ -160,7 +160,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27819
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Zee Zonke" tvg-logo="http://img.lb-ss.com:80/images/tv/27809_4437df5585d87010fe6067fff052198e.png" group-title="DSTV",Zee Zonke HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27809
 
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Justice" tvg-logo="http://img.lb-ss.com:80/images/tv/49407_5141bf7619b99b5738bc28efb037634e.png" group-title="DSTV TV [ENTERTAINMENT]",DSTV: CBS Justice
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Justice" tvg-logo="http://img.lb-ss.com:80/images/tv/49407_5141bf7619b99b5738bc28efb037634e.png" group-title="DSTV",CBS Justice
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49407
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryAfrica.us" tvg-name="DSTV: Discovery Investigation" tvg-logo="http://img.lb-ss.com:80/images/tv/27807_100aa2bc3a141d7f3bc7c1a4cdd39cd5.png" group-title="DSTV",Discovery ID
@@ -583,3 +583,4 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173030
 
 #EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS SELECT NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173029_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",Sky Sport Select
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173029
+
