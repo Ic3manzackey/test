@@ -158,7 +158,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27819
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Zee Zonke" tvg-logo="http://img.lb-ss.com:80/images/tv/27809_4437df5585d87010fe6067fff052198e.png" group-title="DSTV",Zee Zonke HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27809
 
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Justice" tvg-logo="http://img.lb-ss.com:80/images/tv/49407_5141bf7619b99b5738bc28efb037634e.png" group-title="DSTV TV [ENTERTAINMENT]",DSTV: CBS Justice
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Justice" tvg-logo="http://img.lb-ss.com:80/images/tv/49407_5141bf7619b99b5738bc28efb037634e.png" group-title="DSTV",CBS Justice HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49407
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryAfrica.us" tvg-name="DSTV: Discovery Investigation" tvg-logo="http://img.lb-ss.com:80/images/tv/27807_100aa2bc3a141d7f3bc7c1a4cdd39cd5.png" group-title="DSTV",Discovery ID
@@ -520,3 +520,4 @@ https://4racingzalive.deod.tv/GreyhoundRacing/GreyhoundRacing.isml/.m3u8
 
 #EXTINF:-1 tvg-id="Greyhound Racing 2" tvg-name="Greyhound Racing: Greyhound Racing 2" tvg-logo="https://racingtoday-resources.deod.tv/images/greyhounds-2-667x500-1741599925-m.png" group-title="Greyhound Racing",Greyhound Racing 2
 https://4racingzalive.deod.tv/GreyhoundRacing2/GreyhoundRacing2.isml/.m3u8
+
