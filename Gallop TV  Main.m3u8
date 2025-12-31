@@ -1,5 +1,7 @@
 #EXTM3U
 
+Dstv Prem
+
 #EXTINF:-1 tvg-id="MNet.za" tvg-name="DSTV: M-NET FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/191779_77c55100b04814a951e220dfe917ba3e.png" group-title="DSTV",M-NET HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191779
 
@@ -72,7 +74,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26960
 #EXTINF:-1 tvg-id="MTVAfrica.za" tvg-name="DSTV: MTV" tvg-logo="http://img.lb-ss.com:80/images/tv/49422_d5308d3d974731668f8762dc11f23276.png" group-title="DSTV",MTV
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49422
 
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Reality" tvg-logo="http://img.lb-ss.com:80/images/tv/49406_f3aeb4182abf9d9c178ea804e5ff665a.png" group-title="DSTV",CBS Reality
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Reality" tvg-logo="http://img.lb-ss.com:80/images/tv/49406_f3aeb4182abf9d9c178ea804e5ff665a.png" group-title="DSTV",CBS.Reality
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49406
 
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-name="DSTV: tlnovelas" tvg-logo="http://img.lb-ss.com:80/images/tv/147939_c582094f533b80e8454a8e9a9400ba76.png" group-title="DSTV",TLNovelas
@@ -158,7 +160,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27819
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Zee Zonke" tvg-logo="http://img.lb-ss.com:80/images/tv/27809_4437df5585d87010fe6067fff052198e.png" group-title="DSTV",Zee Zonke HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27809
 
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Justice" tvg-logo="http://img.lb-ss.com:80/images/tv/49407_5141bf7619b99b5738bc28efb037634e.png" group-title="DSTV",CBS Justice HD
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Justice" tvg-logo="http://img.lb-ss.com:80/images/tv/49407_5141bf7619b99b5738bc28efb037634e.png" group-title="DSTV TV [ENTERTAINMENT]",DSTV: CBS Justice
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49407
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryAfrica.us" tvg-name="DSTV: Discovery Investigation" tvg-logo="http://img.lb-ss.com:80/images/tv/27807_100aa2bc3a141d7f3bc7c1a4cdd39cd5.png" group-title="DSTV",Discovery ID
@@ -338,6 +340,30 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/189137
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Play HD" tvg-logo="http://img.lb-ss.com:80/images/tv/22201_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV",SuperSport Play HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/22201
 
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Events 1 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/26947_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV",SS Events 1 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26947
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Events 2 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/26949_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV",SS Events 2 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26949
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Events 3 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/147919_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV",SS Events 3 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/147919
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Events 4 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/147920_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV",SS Events 4 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/147920
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Events 5 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/147921_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV",SS Events 5 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/147921
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Events 6 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/147922_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV",SS Events 6 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/147922
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Events 7 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/147923_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV",SS Events 7 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/147923
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Events 8 HD" tvg-logo="http://img.lb-ss.com:80/images/tv/147924_552920b9599fa5f4856d664d25e8cec8.png" group-title="DSTV",SS Events 8 HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/147924
+
 #EXTINF:-1 tvg-id="ESPN2Africa.za" tvg-name="DSTV: ESPN" tvg-logo="http://img.lb-ss.com:80/images/tv/49446_4bca8f3a7fc63fffb55923a3d8922880.png" group-title="DSTV",ESPN HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49446
 
@@ -470,7 +496,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27823
 #EXTINF:-1 tvg-id="NewzroomAfrika.za" tvg-name="DSTV: Newzroom Afrika" tvg-logo="http://img.lb-ss.com:80/images/tv/27354_388b69de99aeebaeef1fbbea636e2352.png" group-title="DSTV",Newzroom Afrika
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27354
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="DSTV: Al Jazeera" tvg-logo="http://img.lb-ss.com:80/images/tv/49443_ecdabe16806e7faa4be21aa2ddcf4a19.png" group-title="DSTV",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="DSTV: Al Jazeera" tvg-logo="http://img.lb-ss.com:80/images/tv/49443_ecdabe16806e7faa4be21aa2ddcf4a19.png" group-title="DSTV",Al.Jazeera
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49443
 
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Russia Today" tvg-logo="http://img.lb-ss.com:80/images/tv/49444_e0e77f8cc82134fe9d8be7b0f0a2b01f.png" group-title="DSTV",Russia Today
@@ -488,7 +514,9 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49427
 #EXTINF:-1 tvg-id="BloombergTVAfrica.us" tvg-name="DSTV: Bloomberg" tvg-logo="http://img.lb-ss.com:80/images/tv/49445_3bab57191e25eb486bfd7ec189a6f64f.png" group-title="DSTV",Bloomberg Television
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49445
 
-#EXTINF:-1 tvg-id="Racing240.za" tvg-name="Horse Racing: Racing240" tvg-logo="https://deod-static-resources.deod.tv/www.racingtoday.co.za/images/logo.png" group-title="Horse Racing",Racing240
+Horse Racing
+
+#EXTINF:-1 tvg-id="Racing240.za" tvg-name="Horse Racing: Racing240" tvg-logo="https://deod-static-resources.deod.tv/www.racingtoday.co.za/images/logo.png" group-title="Horse Racing",Racing 240
 https://za-bkm100-lb.discoverdigital.co.za/bpk-tv/Racing240/default/index.m3u8
 
 #EXTINF:-1 tvg-id="SA Racing.za" tvg-name="Horse Racing: SA Racing" tvg-logo="https://racingtoday-resources.deod.tv/images/sa-racing-667x500-1709289373-m.png" group-title="Horse Racing",SA Racing
@@ -521,4 +549,37 @@ https://4racingzalive.deod.tv/GreyhoundRacing/GreyhoundRacing.isml/.m3u8
 #EXTINF:-1 tvg-id="Greyhound Racing 2" tvg-name="Greyhound Racing: Greyhound Racing 2" tvg-logo="https://racingtoday-resources.deod.tv/images/greyhounds-2-667x500-1741599925-m.png" group-title="Greyhound Racing",Greyhound Racing 2
 https://4racingzalive.deod.tv/GreyhoundRacing2/GreyhoundRacing2.isml/.m3u8
 
+Sky Sports Nz
 
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS 1 NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/172986_ab51a873b9b30ce8efccef80db835a94.png" group-title="SKY Sports NZ",Sky Sport 1
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/172986
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS 2 NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173021_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",Sky Sport 2
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173021
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS 3 NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173022_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",Sky Sport 3
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173022
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS 4 NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173023_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",Sky Sport 4
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173023
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS 5 NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173024_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",Sky Sport 5
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173024
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS 6 NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173025_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",Sky Sport 6
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173025
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS 7 NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173026_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",Sky Sport 7
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173026
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS 8 NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173027_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",Sky Sport 8
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173027
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS 9 NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173028_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",Sky Sport 9
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173028
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS POP UP NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173030_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",NZ: Sky Sport Pop Up
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173030
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY SPORTS SELECT NZ" tvg-logo="http://img.lb-ss.com:80/images/tv/173029_3264a42c48317d49d7a21311cf2ef7b5.png" group-title="SKY Sports NZ",Sky Sport Select
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173029
