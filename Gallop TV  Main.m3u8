@@ -66,11 +66,20 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/29101
 #EXTINF:-1 tvg-id="WWEChannel.za" tvg-name="DSTV: WWE Channel" tvg-logo="http://img.lb-ss.com:80/images/tv/49448_fd6c7459a192d9d9cecf93547d4a2a1d.png" group-title="DSTV",WWE CHANNEL
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49448
 
+#EXTINF:-1 tvg-id="BETAfrica.us" tvg-name="DSTV: BET" tvg-logo="http://img.lb-ss.com:80/images/tv/26960_255006998500439cd8b84b1a7a84c960.png" group-title="DSTV",BET
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26960
+
 #EXTINF:-1 tvg-id="MTVAfrica.za" tvg-name="DSTV: MTV" tvg-logo="http://img.lb-ss.com:80/images/tv/49422_d5308d3d974731668f8762dc11f23276.png" group-title="DSTV",MTV
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49422
 
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Reality" tvg-logo="http://img.lb-ss.com:80/images/tv/49406_f3aeb4182abf9d9c178ea804e5ff665a.png" group-title="DSTV",CBS.Reality
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49406
+
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-name="DSTV: tlnovelas" tvg-logo="http://img.lb-ss.com:80/images/tv/147939_c582094f533b80e8454a8e9a9400ba76.png" group-title="DSTV",TLNovelas
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/147939
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: BBC Brit" tvg-logo="http://img.lb-ss.com:80/images/tv/49402_666a77663bc29b072c2c019767585727.png" group-title="DSTV",BBC Brit HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49402
 
 #EXTINF:-1 tvg-id="TLCAfrica.us" tvg-name="DSTV: TLC Entertainment" tvg-logo="http://img.lb-ss.com:80/images/tv/27832_b612ca94ac673bf8b1326da0acd3d52e.png" group-title="DSTV",TLC HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27832
@@ -86,6 +95,14 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26970
 
 #EXTINF:-1 tvg-id="eMoviesExtra.za" tvg-name="DSTV: eMovies Extra" tvg-logo="http://img.lb-ss.com:80/images/tv/26969_218e09edd7ea458f47438e4c8c419bb6.png" group-title="DSTV",eMovies Extra
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26969
+
+#EXTINF:-1 tvg-id="AfricaMagicEpic.za" tvg-name="DSTV: Africa Magic Epic" tvg-logo="http://img.lb-ss.com:80/images/tv/26971_0e567d35962a14c5436e383639b77ca9.png" group-title="DSTV",Africa Magic Epic
+
+#EXTINF:-1 tvg-id="AfricaMagicFamily.za" tvg-name="DSTV: Africa Magic Family" tvg-logo="http://img.lb-ss.com:80/images/tv/26973_cb918eae18e1926454b848e7d61fa8f3.png" group-title="DSTV",Africa Magic Family
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26973
+
+#EXTINF:-1 tvg-id="AfricaMagicShowcaseAfrica.za" tvg-name="DSTV: Africa Magic Showcase" tvg-logo="http://img.lb-ss.com:80/images/tv/228765_775b52114c8cfd9078f32115bcaf354f.png" group-title="DSTV",Africa Magic Showcase
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/228765
 
 #EXTINF:-1 tvg-id="KykNet.za" tvg-name="DSTV: kykNET FHD" tvg-logo="http://img.lb-ss.com:80/images/tv/191781_8484d517916cc3b9c03a59f7bdbd087c.png" group-title="DSTV",KykNET HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/191781
@@ -107,15 +124,6 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/192806
 
 #EXTINF:-1 tvg-id="Via.za" tvg-name="DSTV: VIA" tvg-logo="http://img.lb-ss.com:80/images/tv/27830_d8aeb611bfad335dc2814cb4a3a60e65.png" group-title="DSTV",VIA HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27830
-
-#EXTINF:-1 tvg-id="AfricaMagicShowcaseAfrica.za" tvg-name="DSTV: Africa Magic Showcase" tvg-logo="http://img.lb-ss.com:80/images/tv/228765_775b52114c8cfd9078f32115bcaf354f.png" group-title="DSTV",Africa Magic Showcase
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/228765
-
-#EXTINF:-1 tvg-id="AfricaMagicEpic.za" tvg-name="DSTV: Africa Magic Epic" tvg-logo="http://img.lb-ss.com:80/images/tv/26971_0e567d35962a14c5436e383639b77ca9.png" group-title="DSTV",Africa Magic Epic
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26971
-
-#EXTINF:-1 tvg-id="AfricaMagicFamily.za" tvg-name="DSTV: Africa Magic Family" tvg-logo="http://img.lb-ss.com:80/images/tv/26973_cb918eae18e1926454b848e7d61fa8f3.png" group-title="DSTV",Africa Magic Family
-http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26973
 
 #EXTINF:-1 tvg-id="RealTimeAfrica.us" tvg-name="DSTV: Real Time" tvg-logo="http://img.lb-ss.com:80/images/tv/27818_cf78f13b38252ffde171aa85c7965524.png" group-title="DSTV",Real Time
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27818
@@ -149,6 +157,9 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27819
 
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Zee Zonke" tvg-logo="http://img.lb-ss.com:80/images/tv/27809_4437df5585d87010fe6067fff052198e.png" group-title="DSTV",Zee Zonke HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27809
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Justice" tvg-logo="http://img.lb-ss.com:80/images/tv/49407_5141bf7619b99b5738bc28efb037634e.png" group-title="DSTV TV [ENTERTAINMENT]",DSTV: CBS Justice
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49407
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryAfrica.us" tvg-name="DSTV: Discovery Investigation" tvg-logo="http://img.lb-ss.com:80/images/tv/27807_100aa2bc3a141d7f3bc7c1a4cdd39cd5.png" group-title="DSTV",Discovery ID
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27807
@@ -405,6 +416,12 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49418
 #EXTINF:-1 tvg-id="ChannelO.za" tvg-name="DSTV: Channel O" tvg-logo="http://img.lb-ss.com:80/images/tv/49419_852cba42333bf67308dae41d97279e2d.png" group-title="DSTV",Channel O HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49419
 
+#EXTINF:-1 tvg-id="MzansiMagicMusic.za" tvg-name="DSTV: Mzansi Magic Music" tvg-logo="http://img.lb-ss.com:80/images/tv/26951_8a4a0a35aa05a05124d763b8874d89bf.png" group-title="DSTV",Mzansi Magic HD
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26951
+
+#EXTINF:-1 tvg-id="MTVBaseAfrica.za" tvg-name="DSTV: MTV Base" tvg-logo="http://img.lb-ss.com:80/images/tv/49420_32c5b797ec9e07c25b94e66b549d1598.png" group-title="DSTV",MTV base
+http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49420
+
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="DSTV: TRACE Urban" tvg-logo="http://img.lb-ss.com:80/images/tv/49429_d6f12222dadb728845e95cdf96ded252.png" group-title="DSTV",TRACE URBAN HD
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49429
 
@@ -503,91 +520,3 @@ https://4racingzalive.deod.tv/GreyhoundRacing/GreyhoundRacing.isml/.m3u8
 
 #EXTINF:-1 tvg-id="Greyhound Racing 2" tvg-name="Greyhound Racing: Greyhound Racing 2" tvg-logo="https://racingtoday-resources.deod.tv/images/greyhounds-2-667x500-1741599925-m.png" group-title="Greyhound Racing",Greyhound Racing 2
 https://4racingzalive.deod.tv/GreyhoundRacing2/GreyhoundRacing2.isml/.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
