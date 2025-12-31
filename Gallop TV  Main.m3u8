@@ -72,7 +72,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/26960
 #EXTINF:-1 tvg-id="MTVAfrica.za" tvg-name="DSTV: MTV" tvg-logo="http://img.lb-ss.com:80/images/tv/49422_d5308d3d974731668f8762dc11f23276.png" group-title="DSTV",MTV
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49422
 
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Reality" tvg-logo="http://img.lb-ss.com:80/images/tv/49406_f3aeb4182abf9d9c178ea804e5ff665a.png" group-title="DSTV",CBS.Reality
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: CBS Reality" tvg-logo="http://img.lb-ss.com:80/images/tv/49406_f3aeb4182abf9d9c178ea804e5ff665a.png" group-title="DSTV",CBS Reality
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49406
 
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-name="DSTV: tlnovelas" tvg-logo="http://img.lb-ss.com:80/images/tv/147939_c582094f533b80e8454a8e9a9400ba76.png" group-title="DSTV",TLNovelas
@@ -470,7 +470,7 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27823
 #EXTINF:-1 tvg-id="NewzroomAfrika.za" tvg-name="DSTV: Newzroom Afrika" tvg-logo="http://img.lb-ss.com:80/images/tv/27354_388b69de99aeebaeef1fbbea636e2352.png" group-title="DSTV",Newzroom Afrika
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/27354
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="DSTV: Al Jazeera" tvg-logo="http://img.lb-ss.com:80/images/tv/49443_ecdabe16806e7faa4be21aa2ddcf4a19.png" group-title="DSTV",Al.Jazeera
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="DSTV: Al Jazeera" tvg-logo="http://img.lb-ss.com:80/images/tv/49443_ecdabe16806e7faa4be21aa2ddcf4a19.png" group-title="DSTV",Al Jazeera
 http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/49443
 
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: Russia Today" tvg-logo="http://img.lb-ss.com:80/images/tv/49444_e0e77f8cc82134fe9d8be7b0f0a2b01f.png" group-title="DSTV",Russia Today
@@ -520,4 +520,5 @@ https://4racingzalive.deod.tv/GreyhoundRacing/GreyhoundRacing.isml/.m3u8
 
 #EXTINF:-1 tvg-id="Greyhound Racing 2" tvg-name="Greyhound Racing: Greyhound Racing 2" tvg-logo="https://racingtoday-resources.deod.tv/images/greyhounds-2-667x500-1741599925-m.png" group-title="Greyhound Racing",Greyhound Racing 2
 https://4racingzalive.deod.tv/GreyhoundRacing2/GreyhoundRacing2.isml/.m3u8
+
 
