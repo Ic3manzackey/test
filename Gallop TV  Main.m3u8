@@ -586,8 +586,9 @@ http://m3.iptv.cab:80/LouiseVN0001/5fKZmohEDw/173029
 
 Test
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_M-Net_new4-4logo_med.png" group-title="DSTV 2",M-Net 2
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: MNET 2"tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowWeb_M-Net_new4-4logo_med.png" group-title="DSTV 2",M-Net 2
 http://localhost:8025/webplay?url="https://now.dstv.com/livetv/play/eab73dde-155e-4515-a706-6d1324f9084b"
+
 
 
 
